@@ -1,5 +1,7 @@
 package proyectoestructurasdatos;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Alonso Muñoz Aguilar
@@ -7,6 +9,6 @@ package proyectoestructurasdatos;
 public class Principal {
 
     public static void main(String[] args) {
-
+        JOptionPane.showInputDialog("Hola");
     }
 }
