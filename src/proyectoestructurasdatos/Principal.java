@@ -1,7 +1,5 @@
 package proyectoestructurasdatos;
 
-import javax.swing.JOptionPane;
-
 /**
  *
  * @author Alonso Muñoz Aguilar
